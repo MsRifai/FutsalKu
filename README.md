@@ -49,7 +49,7 @@ Sesuaikan username dan password database di `config/config.php` jika menggunakan
    ```text
    http://localhost/FutsalKu/
    ```
-   *(Atau `http://localhost/sewalapangan/` tergantung nama folder tempat Anda menyimpannya).*
+   *(Atau `http://localhost/futsalku/` tergantung nama folder tempat Anda menyimpannya).*
 
 ---
 
